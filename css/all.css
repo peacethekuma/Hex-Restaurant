@@ -142,7 +142,7 @@ img {
           margin-left: 20px; } }
   .header .burger-icon {
     display: none; }
-    @media (max-width: 414px) {
+    @media (max-width: 564px) {
       .header .burger-icon {
         display: block;
         float: right;
@@ -155,7 +155,7 @@ img {
   margin-right: 48px;
   display: block;
   margin-top: 20px; }
-  @media (max-width: 414px) {
+  @media (max-width: 564px) {
     .top-menu {
       max-height: 0px;
       overflow: hidden;
@@ -171,7 +171,7 @@ img {
       text-align: center; } }
   .top-menu li {
     float: left; }
-    @media (max-width: 414px) {
+    @media (max-width: 564px) {
       .top-menu li {
         float: none;
         border-bottom: 1px dashed #FF5E45;
@@ -182,7 +182,7 @@ img {
       font-size: 16px;
       margin-left: 30px;
       display: block; }
-      @media (max-width: 414px) {
+      @media (max-width: 564px) {
         .top-menu li a {
           padding: 30px;
           padding-right: 35px;
@@ -192,9 +192,9 @@ img {
     .top-menu li a:hover {
       color: #FF5E45; }
 
-@media (max-width: 414px) {
+@media (max-width: 564px) {
   .slide-down .top-menu {
-    max-height: 400px; } }
+    max-height: 500px; } }
 
 .burger {
   width: 35px;
